@@ -4,4 +4,6 @@ nltk
 scikit-learn
 matplotlib
 seaborn 
+scipy 
+flask
 -e .
